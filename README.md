@@ -1,4 +1,4 @@
-# Iterm2-ssh
+# Iterm2-smart-tab
 Auto recolor & rename tab after login in a remote server
 to aviod to mistake operations on some important servers
 
